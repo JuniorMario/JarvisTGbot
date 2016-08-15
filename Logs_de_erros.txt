@@ -1,0 +1,7 @@
+
+#Erro! Função LOG 2016-07-23 01:00:37.971491
+Mensagem de erro:
+invalid syntax (<unknown>, line 1)
+Mensagem que originou o erro:
+{'delete_chat_photo': None, 'migrate_to_chat_id': None, 'text': u'/bot_users', 'sticker': None, 'pinned_message': None, 'forward_from_chat': None, 'migrate_from_chat_id': None, 'video': None, 'left_chat_member': None, 'chat': {'username': u'adilgauto', 'first_name': u'Nino Santana', 'last_name': None, 'title': None, 'type': u'private', 'id': 160461850}, 'group_chat_created': None, 'new_chat_photo': None, 'forward_date': None, 'entities': [<telebot.types.MessageEntity instance at 0x7f7752b0e878>], 'supergroup_chat_created': None, 'photo': None, 'document': None, 'forward_from': None, 'location': None, 'edit_date': None, 'content_type': 'text', 'from_user': {'username': u'adilgauto', 'first_name': u'Nino Santana', 'last_name': None, 'id': 160461850}, 'date': 1469235637, 'new_chat_member': None, 'voice': None, 'reply_to_message': None, 'venue': None, 'message_id': 4121, 'caption': None, 'contact': None, 'channel_chat_created': None, 'audio': None, 'new_chat_title': None}
+------------------------------------

@@ -1,0 +1,1 @@
+list_tags = """style, img, src, js, script, class, id, type, link, rel""" 
